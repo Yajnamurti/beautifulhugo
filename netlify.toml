@@ -8,4 +8,5 @@
   HUGO_BASEURL = "/"
 
 [[plugins]]
-package = "@netlify/plugin-gatsby"
+  package = "@netlify/plugin-emails"
+
