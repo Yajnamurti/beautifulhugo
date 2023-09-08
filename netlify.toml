@@ -10,3 +10,6 @@
 [[plugins]]
   package = "@netlify/plugin-emails"
 
+  NETLIFY_EMAILS_PROVIDER Postmark
+
+NETLIFY_EMAILS_PROVIDER_API_KEY
